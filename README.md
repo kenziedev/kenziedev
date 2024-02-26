@@ -1,3 +1,5 @@
+<div align=center>
+
 ### Teck Stack
 🗣️ : ![Static Badge](https://img.shields.io/badge/-php-blue?logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/-java-orange?logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/-python-%233776AB?logo=python&logoColor=white)  
 💾 : ![Static Badge](https://img.shields.io/badge/-mysql-%234479A1?logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/-mariaDB-%23003545?logo=mariadb&logoColor=white) ![Static Badge](https://img.shields.io/badge/-mssql-%23CC2927?logo=microsoftsqlserver&logoColor=white) ![Static Badge](https://img.shields.io/badge/-oracle-%23F80000?logo=oracle&logoColor=white)  
@@ -6,11 +8,12 @@
 
 
 ### Contact
-[![Static Badge](https://img.shields.io/badge/-discord-%235865F2?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FuvhEXQnrwA)](https://discord.gg/uvhEXQnrwA)  
-[![Static Badge](https://img.shields.io/badge/-linkedin-%230A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenzie-oh-4429932b6%2F)](https://www.linkedin.com/in/kenzie-oh-4429932b6/)  
-[![Static Badge](https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white&link=mailto%3Akenziedev90%40gmail.com)](kenziedev90@gmail.com)  
-[![Static Badge](https://img.shields.io/badge/-instagram-%23E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fhyunsik_nim%2F)](https://www.instagram.com/hyunsik_nim/)  
+[![Static Badge](https://img.shields.io/badge/-discord-%235865F2?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FuvhEXQnrwA)](https://discord.gg/uvhEXQnrwA) 
+[![Static Badge](https://img.shields.io/badge/-linkedin-%230A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenzie-oh-4429932b6%2F)](https://www.linkedin.com/in/kenzie-oh-4429932b6/) 
+[![Static Badge](https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white&link=mailto%3Akenziedev90%40gmail.com)](kenziedev90@gmail.com) 
+[![Static Badge](https://img.shields.io/badge/-instagram-%23E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fhyunsik_nim%2F)](https://www.instagram.com/hyunsik_nim/)
 
+</div>
 
 
 
