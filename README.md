@@ -6,10 +6,10 @@
 
 
 ### Contact
-![Static Badge](https://img.shields.io/badge/-discord-%235865F2?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FuvhEXQnrwA)(https://discord.gg/uvhEXQnrwA)  
-![Static Badge](https://img.shields.io/badge/-linkedin-%230A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenzie-oh-4429932b6%2F)(https://www.linkedin.com/in/kenzie-oh-4429932b6/)  
-![Static Badge](https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white&link=mailto%3Akenziedev90%40gmail.com)(kenziedev90@gmail.com)  
-![Static Badge](https://img.shields.io/badge/-instagram-%23E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fhyunsik_nim%2F)(https://www.instagram.com/hyunsik_nim/)  
+[![Static Badge](https://img.shields.io/badge/-discord-%235865F2?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FuvhEXQnrwA)](https://discord.gg/uvhEXQnrwA)  
+[![Static Badge](https://img.shields.io/badge/-linkedin-%230A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenzie-oh-4429932b6%2F)](https://www.linkedin.com/in/kenzie-oh-4429932b6/)  
+[![Static Badge](https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&logoColor=white&link=mailto%3Akenziedev90%40gmail.com)](kenziedev90@gmail.com)  
+[![Static Badge](https://img.shields.io/badge/-instagram-%23E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fhyunsik_nim%2F)](https://www.instagram.com/hyunsik_nim/)  
 
 
 
